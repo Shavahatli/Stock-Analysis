@@ -5,8 +5,8 @@ This projects looks at how FED announcements affected the stock prices.
 
 The first plot shows the stock prices around the fourth FED announcement of 2022. 
 
-![](fed-1.png)
+<img src="fed-1.png" width="800">
 
 The second plot shows the stock prices around the fourth FED announcement of 2022. 
 
-![](Fed-2.png)
+<img src="Fed-2.png" width="800">
